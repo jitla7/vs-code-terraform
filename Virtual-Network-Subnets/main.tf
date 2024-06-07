@@ -27,3 +27,5 @@ output "subinfoout" {
     value = azurerm_subnet.name[sub1].name
   
 }
+
+#stage then push then commit
